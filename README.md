@@ -24,3 +24,13 @@ Teams will be responsible in enabling queries to be entered and result to be pre
 When a query is entered, the search engine should present in separate search engine web page frames of the web page the following:
 Results of your relevance models against the query – all of those that you have implemented; 	
 Results of the search engine relevance against the query when clustering has been incorporated – you should present the clusters that you have obtained as well.
+
+We're looking to see your data science skills at work!
+
+Questions?
+Find us on Discord at the #Walmart channel.
+
+How to Submit:
+- Create a branch on this GitHub and submit your final code there.
+- Sign up for a presentation slot to walk our judges through your project: 
+(we will send out calendar invites)
