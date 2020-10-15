@@ -32,5 +32,7 @@ Find us on Discord at the #Walmart channel.
 
 How to Submit:
 - Create a branch on this GitHub and submit your final code there.
-- Sign up for a presentation slot to walk our judges through your project: 
-(we will send out calendar invites)
+- Sign up for a presentation slot to walk our judges through your project: https://surveysays.walmart.com/survey/K7HdHiPag
+- Deadline for both of these is 12pm CDT on Sunday the 18th
+
+A list of presentation times will be emailed to each main point of contact and sent in the Walmart Discord at 12:20pm with a Zoom link. Please be on that Zoom link 15 minutes prior to your presentation time.
